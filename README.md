@@ -13,6 +13,11 @@ at https://developers.facebook.com/docs/ios
 
 NOTE: By default, the Facebook SDK for iOS is installed in ~/Documents/FacebookSDK
 
+## Внеснные изменения
+
+Исправлена ошибка из-за которой на iOS 13 после успешного расшаривания информации передавалось событие соотвествующее отмене шаринга пользователем.
+
+
 ## TRY IT OUT
 
 1. Download the SDK at <https://developers.facebook.com/docs/ios> or via CocoaPods by adding the 'FBSDKCoreKit',
